@@ -4,7 +4,7 @@
     "slug": "SmartExpenseTracker",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/AppIcon~ios-marketing.png",
     "scheme": "smartexpensetracker",
     "userInterfaceStyle": "automatic",
     "ios": {
@@ -29,8 +29,8 @@
         "expo-splash-screen",
         {
           "backgroundColor": "#208AEF",
-          "image": "./assets/images/splash-icon.png",
-          "imageWidth": 76
+          "image": "./assets/images/splash(2).png",
+          "imageWidth": 180
         }
       ]
     ],
