@@ -1,7 +1,7 @@
 # Smart Expense Tracker
 
 <p align="center">
-  <img src="assets/images/splash(2).png" alt="Smart Expense Tracker" width="150"/>
+  <img src="assets/images/splash (2).png" alt="Smart Expense Tracker" width="150"/>
 </p>
 
 <p align="center">
