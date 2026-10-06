@@ -1,56 +1,73 @@
-# Welcome to your Expo app 👋
+# Smart Expense Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="assets/images/splash (2).png" alt="Smart Expense Tracker" width="150"/>
+</p>
 
-## Get started
+<p align="center">
+  A React Native expense management app for tracking expenses, managing budgets, and analyzing spending.
+</p>
 
-1. Install dependencies
+## Screenshots
 
-   ```bash
-   npm install
-   ```
+<table>
+  <tr>
+    <td><img src="screenshots/login.png" width="180"/></td>
+    <td><img src="screenshots/register.png" width="180"/></td>
+    <td><img src="screenshots/home.png" width="180"/></td>
+    <td><img src="screenshots/add.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/trans.png" width="180"/></td>
+    <td><img src="screenshots/stat.png" width="180"/></td>
+    <td><img src="screenshots/prof.png" width="180"/></td>
+  </tr>
+</table>
 
-2. Start the app
+## Features
 
-   ```bash
-   npx expo start
-   ```
+- User registration and login
+- Persistent authentication
+- Add, edit, and delete expenses
+- Expense categories
+- Monthly budgets and spending alerts
+- Spending insights and monthly comparisons
+- Statistics and interactive charts
+- Date selection
+- Dark mode
+- Local data persistence
+- Form validation
 
-In the output, you'll find options to open the app in a
+## Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- React Native Paper
+- React Hook Form
+- Zod
+- AsyncStorage
+- React Native Gifted Charts
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Installation
 
 ```bash
-npm run reset-project
+git clone https://github.com/YOUR_USERNAME/smart-expense-tracker.git
+cd smart-expense-tracker
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Run with Expo Go, Android Emulator, or iOS Simulator.
 
-### Other setup steps
+## Project Purpose
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+A portfolio project demonstrating mobile development, authentication, local storage, form validation, navigation, data visualization, and responsive UI design.
 
-## Learn more
+## Author
 
-To learn more about developing your project with Expo, look at the following resources:
+**Karim Hossam**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- GitHub: https://github.com/kareem-2004
+- LinkedIn: https://linkedin.com/in/karim-hussam
