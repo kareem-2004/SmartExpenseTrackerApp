@@ -1,11 +1,7 @@
 # Smart Expense Tracker
 
 <p align="center">
-<<<<<<< HEAD
   <img src="assets/images/splash(2).png" alt="Smart Expense Tracker" width="150"/>
-=======
-  <img src="assets/images/splash (2).png" alt="Smart Expense Tracker" width="150"/>
->>>>>>> 7673f78 (Add auth, tabs, context and types; update layout and config)
 </p>
 
 <p align="center">
